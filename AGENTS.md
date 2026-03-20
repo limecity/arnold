@@ -2,6 +2,10 @@
 
 This folder is home. Treat it that way.
 
+## Routing Rules
+- Hvis en forespørgsel handler om e-mail, Teamwork eller fakturaer, skal den videresendes til `frank-assistant`-agenten.
+- Ellers håndter selv eller stil opklarende spørgsmål, hvis ingen workspace passer.
+
 ## First Run
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
